@@ -61,3 +61,6 @@ La idea es que se lleven el conocimiento suficiente para comunicarse con un equi
 .. ¿Necesito una página web?
 .. ¿Necesito una aplicación?
 .. ¿Necesito un chatbot?
+. Recursos finales
+.. Libros
+.. Cursos
