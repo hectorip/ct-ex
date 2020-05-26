@@ -1,0 +1,63 @@
+= Pensamiento computacional
+
+Este es un temario de un pequeño curso para puestos ejecutivos que necesitan entender la computación, pero no necesitan operar con ella.
+
+La idea es que se lleven el conocimiento suficiente para comunicarse con un equipo técnico y saber lo que es posible y lo que no mediante la computación.
+
+== Temario
+
+. ¿Qué es el pensamiento computacional?
+. ¿Cómo funciona una computadora moderna?
+.. Partes principales
+.. Arquitectura de una computadora
+. Algoritmos y su relación con la computación
+.. Ejemplos de algoritmos
+. Otros modelos de computación
+.. Cálculo lambda
+.. Machine Learning
+.. Computación cuántica
+. Programación de computadoras
+.. Lenguajes de programación
+... ¿Por qué existen tantos?
+... ¿Cómo escoger uno?
+. Almacenamiento de información
+.. Sistemas de archivos
+... Almacenamiento de datos binarios
+.. Bases de Datos
+... Teoría de bases de datos
+... SQL
+... NoSQL
+.... Bases de datos de documentos
+.... Bases de datos llave - valor
+.... Bases de datos de grafos
+.. ¿Cómo escoger un medio de almacenamiento de datos?
+. Transferencia de información
+.. Servidores
+... Las épocas de los servidores
+.... On-premise
+.... Data centers
+.... Virtual Private Servers
+.... Cloud V1 (IaaS)
+.... Cloud V2
+.. Plataformas como Servicio (PaaS)
+... Ventajas
+... Desventajas
+... Escalabilidad
+.. Comparando y decidiendo entre proveedores
+... AWS
+... Azure
+... GCP
+... Otros
+. Seguridad
+.. Criptografía
+.. Prácticas básicas
+... SSL
+... ¿Cómo escoger un proveedor de SSL?
+. Inteligencia Artificial
+.. Bases
+.. Machine Learning
+.. Proveedores
+. Cómo decidir mi stack tecnológico
+.. ¿Necesito una página web?
+.. ¿Necesito una aplicación?
+.. ¿Necesito un chatbot?
